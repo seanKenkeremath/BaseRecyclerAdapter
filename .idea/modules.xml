@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaseRecyclerAdapter.iml" filepath="$PROJECT_DIR$/BaseRecyclerAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/app.iml" filepath="$PROJECT_DIR$/examples/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baserecycleradapter/baserecycleradapter.iml" filepath="$PROJECT_DIR$/baserecycleradapter/baserecycleradapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baserecycleradapter/baserecycleradapter2.iml" filepath="$PROJECT_DIR$/baserecycleradapter/baserecycleradapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+    </modules>
+  </component>
+</project>
